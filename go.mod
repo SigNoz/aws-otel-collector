@@ -32,12 +32,12 @@ require (
 	github.com/open-telemetry/opentelemetry-collector-contrib/receiver/prometheusreceiver v0.34.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/receiver/statsdreceiver v0.34.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/receiver/zipkinreceiver v0.34.0
-	github.com/opencontainers/runc v1.0.1
+	github.com/opencontainers/runc v1.1.12
 	github.com/pkg/errors v0.9.1
 	github.com/stretchr/testify v1.7.0
 	go.opentelemetry.io/collector v0.34.0
 	go.uber.org/zap v1.19.0
-	golang.org/x/sys v0.0.0-20210806184541-e5e7981a1069
+	golang.org/x/sys v0.6.0
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0
 )
 
